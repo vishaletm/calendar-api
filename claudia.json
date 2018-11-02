@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "kollavarsham-calendar-executor",
+    "name": "kollavarsham-calendar",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "5q4sh5nau1"
+  }
+}
